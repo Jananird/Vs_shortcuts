@@ -10,7 +10,10 @@ ul{
     gap: 30px;
     display: flex;
     font-size :small;
+    text-align: left;
+   
 }
+
 
 
 .box2{
@@ -22,7 +25,7 @@ ul{
 }
 ul{
     list-style: none;
-    gap: 35px;
+    gap: 40px;
     display: flex;
     font-size :small;
 }
